@@ -1,0 +1,11 @@
+name: Anna 
+job: QA Engineer
+level: junior
+email: ilona@hexlet.io
+description: |
+  Это текст-описание в свободной форме. Здесь можно рассказать пару интересных фактов про себя
+
+skills: 
+  - функциональное тестирование
+  - написание багрепортов
+  - Linux
