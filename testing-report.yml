@@ -1,0 +1,40 @@
+---
+- summary: |
+    Проверка поиска товаров по ключевому слову
+  status: pass
+
+- summary: |
+    Проверка поиска товаров по категории
+  status: pass
+
+- summary: |
+    Проверка сброса поиска товара по категориям без перезагрузки страницы
+  status: fail
+
+- summary: |
+    Проверка выбора одного пункта в фильтре товаров по производителю
+  status: pass
+
+- summary: |
+    Добавление товара в корзину
+  status: pass
+
+- summary: |
+    Работает проверка заказа
+  status: pass
+
+- summary: |
+    Отображение главной страницы сайта на Samsung Galaxy A51/71
+  status: fail
+
+- summary: |
+    Проверка на XSS уязвимости
+  status: pass
+
+- summary: |
+    Подтверждение заказа при оформление
+  status: pass
+
+- summary: |
+    Оформление заказа
+  status: fail
